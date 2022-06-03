@@ -1,1 +1,1 @@
-"# google-collab" 
+Latihan Machine Learning pada google-collab
